@@ -1,0 +1,19 @@
+{
+  "name": "Project-Name",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "aromano272 <andre.romano272@hotmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "normalize.css": "latest"
+  }
+}
