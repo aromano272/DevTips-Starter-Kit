@@ -1,0 +1,37 @@
+#-------------------------------
+# General Site Settings
+title: Site Title
+email: some@email.com
+description: Site Description
+
+
+#-------------------------------
+# SEO Optimization
+
+# NOTE: Providing SEO information will make this website more searchable on the internets
+
+seo:
+  description: "Provide a description for your website to make it visible to search engines."
+  rel-author: ""
+  rel-publisher: ""
+
+
+#-------------------------------
+#Example of a list
+
+example: 
+  - 
+    name: example
+    url: example
+  - 
+    name: example
+    url: example
+  - 
+    name: example
+    url: example
+  - 
+    name: example
+    url: example
+
+
+
