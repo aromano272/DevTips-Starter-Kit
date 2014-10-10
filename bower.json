@@ -1,11 +1,10 @@
 {
-  "name": "SET A NAME",
-  "version": "0.0.0",
+  "name": "Project-Name",
+  "version": "0.0.1",
   "homepage": "",
   "authors": [
     "aromano272 <andre.romano272@hotmail.com>"
   ],
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -14,7 +13,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.1.1",
-    "normalize.css": "~3.0.2"
+    "jquery": "latest",
+    "normalize.css": "latest"
   }
 }
