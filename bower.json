@@ -1,0 +1,19 @@
+{
+  "name": "SET A NAME",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "aromano272 <andre.romano272@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
